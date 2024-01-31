@@ -11,6 +11,13 @@
     "hasChangelog": 0,
     "sources": [
       {
+        "name": "Simply Hentai (All)",
+        "lang": "",
+        "id": "298934312390863175",
+        "baseUrl": "https://www.simply-hentai.com",
+        "versionId": 1
+      },
+      {
         "name": "Simply Hentai",
         "lang": "en",
         "id": "298934354390867671",
@@ -64,7 +71,7 @@
         "lang": "chinese",
         "id": "23012005202449637",
         "baseUrl": "https://www.simply-hentai.com",
-        "versionId": 2
+        "versionId": 1
       },
       {
         "name": "Simply Hentai",
