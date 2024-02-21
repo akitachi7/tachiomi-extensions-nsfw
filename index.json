@@ -88,5 +88,47 @@
         "versionId": 2
       }
     ]
+  },
+  {
+    "name": "Tachiyomi: AllHentai",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
+    "apk": "tachiyomi-ru.allhentai-v1.4.44.apk",
+    "lang": "ru",
+    "code": 44,
+    "version": "1.4.44",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "AllHentai",
+        "lang": "ru",
+        "id": "1809051393403180443",
+        "baseUrl": "https://z.allhen.online",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
+  },
+  {
+    "name": "Tachiyomi: HentaiLib",
+    "pkg": "eu.kanade.tachiyomi.extension.ru.hentailib",
+    "apk": "tachiyomi-ru.hentailib-v1.4.44.apk",
+    "lang": "ru",
+    "code": 44,
+    "version": "1.4.44",
+    "nsfw": 1,
+    "hasReadme": 0,
+    "hasChangelog": 0,
+    "sources": [
+      {
+        "name": "HentaiLib",
+        "lang": "ru",
+        "id": "6425650164840473547",
+        "baseUrl": "https://hentailib.me",
+        "versionId": 1,
+        "hasCloudflare": 1
+      }
+    ]
   }
 ]
