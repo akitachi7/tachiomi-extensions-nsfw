@@ -11,13 +11,6 @@
     "hasChangelog": 0,
     "sources": [
       {
-        "name": "Simply Hentai (All)",
-        "lang": "all",
-        "id": "298934312390863175",
-        "baseUrl": "https://www.simply-hentai.com",
-        "versionId": 2
-      },
-      {
         "name": "Simply Hentai",
         "lang": "en",
         "id": "298934354390867671",
@@ -28,6 +21,13 @@
         "name": "Simply Hentai",
         "lang": "ja",
         "id": "752674984993743406",
+        "baseUrl": "https://www.simply-hentai.com",
+        "versionId": 2
+      },
+      {
+        "name": "Simply Hentai",
+        "lang": "zh",
+        "id": "6411097384584116028",
         "baseUrl": "https://www.simply-hentai.com",
         "versionId": 2
       },
@@ -68,13 +68,6 @@
       },
       {
         "name": "Simply Hentai",
-        "lang": "zh",
-        "id": "6411097384584116028",
-        "baseUrl": "https://www.simply-hentai.com",
-        "versionId": 2
-      },
-      {
-        "name": "Simply Hentai",
         "lang": "it",
         "id": "9142653224816805805",
         "baseUrl": "https://www.simply-hentai.com",
@@ -92,7 +85,7 @@
   {
     "name": "Tachiyomi: AllHentai",
     "pkg": "eu.kanade.tachiyomi.extension.ru.allhentai",
-    "apk": "tachiyomi-ru.allhentai-v1.4.44.apk",
+    "apk": "tachiyomi-ru.allhentai-v1.4.50.apk",
     "lang": "ru",
     "code": 50,
     "version": "1.4.50",
@@ -105,8 +98,7 @@
         "lang": "ru",
         "id": "1809051393403180443",
         "baseUrl": "https://z.ahen.me",
-        "versionId": 1,
-        "hasCloudflare": 1
+        "versionId": 1
       }
     ]
   },
@@ -126,8 +118,7 @@
         "lang": "ru",
         "id": "6425650164840473547",
         "baseUrl": "https://hentailib.me",
-        "versionId": 1,
-        "hasCloudflare": 1
+        "versionId": 1
       }
     ]
   }
